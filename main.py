@@ -20,4 +20,4 @@ def target_game():
    print("\nThe Target is moving, take the shot!")
     user_position = int(input("Enter your target position: "))
 
-for attempt in range(1, attempts + 1)
+"""for attempt in range(1, 'attempts' + 1,
